@@ -1,0 +1,28 @@
+{
+
+  "releaseVersion": "1.0.0-beta",
+  "pairSite": "https://yasiya-md-session-server1.koyeb.app/code?number=",
+  "tableName": "YASIYAMD_CONFIG",
+  "supportGroup": "FrFmln0ON9BAUqikbPQuo5",
+
+  "logo": {
+    "connectLogo": "https://i.ibb.co/Kzh27x4T/Blue-and-Teal-Big-Bright-and-Bold-Ai-Technology-Banner.jpg",
+    "mainLogo": "https://raw.githubusercontent.com/Dark-Yasiya/DARKYASIYA-DATABASE/main/MEDIA/IMAGE/yasiya-md.jpg",
+    "contextLogo": "https://i.ibb.co/tPsnkv2d/e20c71cfd1e0d222.jpg"
+  },
+
+  "footer": "*• ʏᴀꜱɪʏᴀ-ᴍᴅ •*",
+  "contextBody": "ᴘᴏᴡᴇʀᴇᴅ ʙʏ | ʏᴀꜱɪʏᴀ-ᴍᴅ ᴛᴇᴀᴍ",
+
+  "connectMsgSendNb": "94762397654@s.whatsapp.net",
+  "officialSite": "",
+  "publicRepo": "https://github.com/DarkYasiyaNew/YASIYA-MD/",
+  "officialChannel": "https://whatsapp.com/channel/0029VaaPfFK7Noa8nI8zGg27",
+
+  "newsletters": ["120363300772542098@newsletter","120363385775730448@newsletter"],
+
+  "nonbuttonDbUrl": "postgresql://postgres:nbzLdWllhUAremSNaoMkNxBosmVOrfBa@trolley.proxy.rlwy.net:54379/railway",
+
+  "antiBotId": ["BAE", "EVO", "B1E", "3L1"]
+  
+}
