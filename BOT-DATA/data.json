@@ -1,6 +1,6 @@
 {
 
-  "releaseVersion": "1.0.0-beta",
+  "releaseVersion": "1.0.01-beta",
   "pairSite": "https://yasiya-md-session-server1.koyeb.app/code?number=",
   "tableName": "YASIYAMD_CONFIG",
   "supportGroup": "FrFmln0ON9BAUqikbPQuo5",
@@ -15,7 +15,7 @@
   "contextBody": "ᴘᴏᴡᴇʀᴇᴅ ʙʏ | ʏᴀꜱɪʏᴀ-ᴍᴅ ᴛᴇᴀᴍ",
 
   "connectMsgSendNb": "94740952096@s.whatsapp.net",
-  "officialSite": "",
+  "officialSite": "https://yasiya-md-main.vercel.app/",
   "publicRepo": "https://github.com/DarkYasiyaNew/YASIYA-MD/",
   "officialChannel": "https://whatsapp.com/channel/0029VaaPfFK7Noa8nI8zGg27",
 
