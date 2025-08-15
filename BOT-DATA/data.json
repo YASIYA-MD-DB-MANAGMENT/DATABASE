@@ -24,6 +24,6 @@
   "nonbuttonDbUrl": "postgresql://admin:npg_0leWpxvmgoh9@ep-bold-lab-a4wrf69s-pooler.us-east-1.aws.neon.tech/chamiya?sslmode=require",
 
   "antiBotId": ["BAE", "EVO", "B1E", "3L1"],
-  "antiBotCpation": [""]
-  
+  "antiBotCpation": [""],
+  "token": "U0IxRmVrSzFLVUlMSEExc1k3MkZiTGY3ZHRqN2xZM1FnTUxR"
 }
