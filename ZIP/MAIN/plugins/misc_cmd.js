@@ -1,6 +1,7 @@
 const util = require("util");
 const { cmd } = require('../command');
-
+const config = require("../config");
+                       
 cmd({
   pattern: "js",
   alias: ["eval", "code", "run"],
