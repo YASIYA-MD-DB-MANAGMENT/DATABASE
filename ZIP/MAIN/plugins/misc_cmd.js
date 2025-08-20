@@ -1,4 +1,5 @@
 const util = require("util");
+const { cmd } = require('../command');
 
 cmd({
   pattern: "js",
