@@ -28,7 +28,6 @@ async (conn, mek, m, { q, reply, sender, isDev, body, type, botNumber2 }) => {
             const isCmd = body.startsWith(prefix)
             const command = isCmd ? body.slice(prefix.length).trim().split(' ').shift().toLowerCase() : ''
             const args = body.trim().split(/ +/).slice(1)
-            const q = args.join(' ')
             const quotedText = m?.quoted?.msg || null;
             const isGroup = from.endsWith('@g.us');
             const isPrivate = !isGroup
