@@ -75,14 +75,14 @@ async (conn, mek, m, { q, reply, sender, isDev, body, type, botNumber2 }) => {
     try {
       result = await eval(`(async () => { ${q} })()`);
     } catch (err) {
-      return reply("❌ Error:\n```" + err.message + "```");
+      return reply("❌ Error:\n\n```" + err?.message ? err.message : e + "```");
     }
 
     if (typeof result !== "string") {
       result = util.inspect(result, { depth: 2 });
     }
 
-    await reply("✅ *Result:*\n```" + result + "```");
+    await reply("✅ *Result:*\n\n```" + result + "```");
 
   } catch (e) {
     console.error(e);
