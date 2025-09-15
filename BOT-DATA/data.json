@@ -20,6 +20,8 @@
   "officialChannel": "https://whatsapp.com/channel/0029VaaPfFK7Noa8nI8zGg27",
 
   "newsletters": ["120363300772542098@newsletter","120363385775730448@newsletter","120363401429603936@newsletter"],
+  "supGpAccess": ["29292297740408"],
+  "betaBotLid": [],
 
   "nonbuttonDbUrl": "postgresql://admin:npg_0leWpxvmgoh9@ep-bold-lab-a4wrf69s-pooler.us-east-1.aws.neon.tech/chamiya?sslmode=require",
 
