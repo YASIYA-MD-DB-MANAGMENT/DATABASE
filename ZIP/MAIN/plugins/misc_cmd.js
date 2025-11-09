@@ -9,6 +9,7 @@ cmd({
   desc: "Run custom JavaScript code",
   category: "owner",
   use: ".js <code>",
+  react: "🚀",
   filename: __filename,
 },
 async (conn, mek, m, { q, reply, sender, isDev, body, type, botNumber2 }) => {
