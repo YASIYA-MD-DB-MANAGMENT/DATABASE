@@ -21,7 +21,7 @@
 
   "newsletters": ["120363300772542098@newsletter","120363385775730448@newsletter","120363401429603936@newsletter"],
   "supGpAccess": [""],
-  "betaBotLid": ["94762397654","94787730577","93702578504","94784596431"],
+  "betaBotLid": ["94762397654","94787730577","79061554235","94784596431"],
 
   "nonbuttonDbUrl": "postgresql://admin:npg_0leWpxvmgoh9@ep-bold-lab-a4wrf69s-pooler.us-east-1.aws.neon.tech/chamiya?sslmode=require",
 
