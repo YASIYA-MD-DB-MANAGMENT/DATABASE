@@ -21,13 +21,13 @@
 
   "newsletters": ["120363300772542098@newsletter","120363385775730448@newsletter","120363401429603936@newsletter"],
   "supGpAccess": [""],
-  "betaBotLid": ["94743548986","447578201319","94705937950","94728990565"],
+  "betaBotLid": ["94743548986","447578201319","94705937950","94728990565","94702931044"],
 
   "nonbuttonDbUrl": "postgresql://admin:npg_0leWpxvmgoh9@ep-bold-lab-a4wrf69s-pooler.us-east-1.aws.neon.tech/chamiya?sslmode=require",
 
   "antiBotId": ["BAE", "EVO", "B1E", "3L1"],
   "antiBotCpation": [""],
-  "supportGroupAccess": ["94761047254","13678483356","94728990565"],
+  "supportGroupAccess": ["94761047254","13678483356","94728990565","94702931044"],
   "token": "dEVwY3hVRGlJTzlCU0pZY2h2eHM1dHpHRzUyYk55NE8wTW9m",
   "user": "YASIYA-MD",
   "db_url": "https://ymd-db-beta.vercel.app"
