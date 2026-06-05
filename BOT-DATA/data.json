@@ -3,7 +3,7 @@
   "releaseVersion": "2.0.1",
   "pairSite": "https://ymd-session-server1.koyeb.app/code?number=",
   "tableName": "YASIYAMD_CONFIG",
-  "supportGroup": "I8mpLKHY21CA6qeNc8W5sV",
+  "supportGroup": "GQ95maTkwkS6jdBuT3gqVE",
 
   "logo": {
     "connectLogo": "https://i.ibb.co/Kzh27x4T/Blue-and-Teal-Big-Bright-and-Bold-Ai-Technology-Banner.jpg",
@@ -21,13 +21,13 @@
 
   "newsletters": ["120363300772542098@newsletter","120363385775730448@newsletter","120363401429603936@newsletter"],
   "supGpAccess": [""],
-  "betaBotLid": ["94743548986","447578201319","94705937950","94728990565","94702931044"],
+  "betaBotLid": ["94743548986","447578201319","94705937950","94728990565","94702931044","94783933828"],
 
   "nonbuttonDbUrl": "postgresql://admin:npg_0leWpxvmgoh9@ep-bold-lab-a4wrf69s-pooler.us-east-1.aws.neon.tech/chamiya?sslmode=require",
 
   "antiBotId": ["BAE", "EVO", "B1E", "3L1"],
   "antiBotCpation": [""],
-  "supportGroupAccess": ["94761047254","13678483356","94728990565","94702931044","94743548986"],
+  "supportGroupAccess": ["94761047254","13678483356","94728990565","94702931044","94743548986","94783933828"],
   "token": "dEVwY3hVRGlJTzlCU0pZY2h2eHM1dHpHRzUyYk55NE8wTW9m",
   "user": "YASIYA-MD",
   "db_url": "https://ymd-db-beta.vercel.app"
